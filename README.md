@@ -102,7 +102,61 @@ The \*\*CFO of ElecKart\*\* has raised concerns about poor turnover and ineffect
 
 &nbsp;  \* The main revenue problem.
 
-&nbsp;  \* Sub-bra
+&nbsp;  \* Sub-branches of potential issues.
+
+Successive “Why” layers leading to root causes.
+
+Clear identification of primary root causes and improvement areas.
+
+
+
+This README file – explaining context, methodology, and deliverables.
+
+
+
+Tools Used
+
+Coggle – for visual issue tree creation and root cause mapping.
+
+PDF Export – for submission.
+
+Business Analysis Frameworks:
+
+5 Whys
+
+Issue Tree (MECE principle)
+
+Root Cause Analysis (RCA)
+
+Outcome
+
+
+
+The RCA highlights that ElecKart’s revenue decline was primarily driven by:
+
+
+
+Ineffective marketing spend allocation
+
+Poor digital customer experience
+
+Weak seller quality and assortment strategy
+
+Operational and logistics inefficiencies
+
+
+
+Recommendations will focus on marketing budget optimization, digital UX enhancement, app development, and process efficiency improvements to regain profitability and customer loyalty.
+
+
+
+Prepared by: Dhruval Patel
+
+Role: E-Commerce Business Analyst Consultant
+
+Project: ElecKart – Root Cause Analysis of Revenue Problem
+
+Submission: PDF Export from Coggle + README File
 
 
 
